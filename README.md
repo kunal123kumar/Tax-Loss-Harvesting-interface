@@ -142,12 +142,6 @@ This project is deployed on **Render**.
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
----
 
-## 📄 License
-
-[MIT](./LICENSE)
-
----
 
 <p align="center">Built with ❤️ for smarter crypto tax management</p>
