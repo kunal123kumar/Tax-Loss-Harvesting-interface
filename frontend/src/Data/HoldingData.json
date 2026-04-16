@@ -1,0 +1,23 @@
+[
+  { "coin": "BTC", "coinName": "Bitcoin", "currentPrice": 85320.15, "totalHolding": 0.63776, "averageBuyPrice": 60000, "stcg": { "gain": -1200, "balance": 0.338 }, "ltcg": { "gain": 2400, "balance": 0.300 } },
+  { "coin": "ETH", "coinName": "Ethereum", "currentPrice": 1620.15, "totalHolding": 5.6736, "averageBuyPrice": 1200, "stcg": { "gain": 55320.15, "balance": 2.332 }, "ltcg": { "gain": 8239.29, "balance": 3.245 } },
+  { "coin": "USDT", "coinName": "Tether", "currentPrice": 1.15, "totalHolding": 3096.54, "averageBuyPrice": 1.0, "stcg": { "gain": -1200, "balance": 2011.23 }, "ltcg": { "gain": 2400, "balance": 902.47 } },
+  { "coin": "MATIC", "coinName": "Polygon", "currentPrice": 2.31, "totalHolding": 2210, "averageBuyPrice": 1.8, "stcg": { "gain": -1200, "balance": 802 }, "ltcg": { "gain": 2400, "balance": 1402 } },
+  { "coin": "SOL", "coinName": "Solana", "currentPrice": 150, "totalHolding": 12, "averageBuyPrice": 90, "stcg": { "gain": 800, "balance": 5 }, "ltcg": { "gain": 1200, "balance": 4 } },
+  { "coin": "XRP", "coinName": "Ripple", "currentPrice": 0.7, "totalHolding": 5000, "averageBuyPrice": 0.6, "stcg": { "gain": -300, "balance": 2000 }, "ltcg": { "gain": 900, "balance": 1500 } },
+  { "coin": "ADA", "coinName": "Cardano", "currentPrice": 0.55, "totalHolding": 8000, "averageBuyPrice": 0.65, "stcg": { "gain": -700, "balance": 3000 }, "ltcg": { "gain": -400, "balance": 2000 } },
+  { "coin": "DOGE", "coinName": "Dogecoin", "currentPrice": 0.12, "totalHolding": 20000, "averageBuyPrice": 0.08, "stcg": { "gain": 1500, "balance": 8000 }, "ltcg": { "gain": 300, "balance": 5000 } },
+  { "coin": "DOT", "coinName": "Polkadot", "currentPrice": 6.5, "totalHolding": 500, "averageBuyPrice": 5.0, "stcg": { "gain": 1200, "balance": 200 }, "ltcg": { "gain": 800, "balance": 150 } },
+  { "coin": "BNB", "coinName": "Binance Coin", "currentPrice": 300, "totalHolding": 1, "averageBuyPrice": 250, "stcg": { "gain": 2000, "balance": 0.4 }, "ltcg": { "gain": 1500, "balance": 0.3 } },
+  { "coin": "LTC", "coinName": "Litecoin", "currentPrice": 80, "totalHolding": 5, "averageBuyPrice": 70, "stcg": { "gain": 500, "balance": 2 }, "ltcg": { "gain": 700, "balance": 1.5 } },
+  { "coin": "AVAX", "coinName": "Avalanche", "currentPrice": 35, "totalHolding": 10, "averageBuyPrice": 30, "stcg": { "gain": 400, "balance": 4 }, "ltcg": { "gain": 900, "balance": 3 } },
+  { "coin": "SHIB", "coinName": "Shiba Inu", "currentPrice": 0.000025, "totalHolding": 1000000, "averageBuyPrice": 0.00002, "stcg": { "gain": 200, "balance": 400000 }, "ltcg": { "gain": 500, "balance": 300000 } },
+  { "coin": "TRX", "coinName": "Tron", "currentPrice": 0.08, "totalHolding": 30000, "averageBuyPrice": 0.07, "stcg": { "gain": 300, "balance": 12000 }, "ltcg": { "gain": 200, "balance": 8000 } },
+  { "coin": "ATOM", "coinName": "Cosmos", "currentPrice": 12, "totalHolding": 20, "averageBuyPrice": 10, "stcg": { "gain": 600, "balance": 8 }, "ltcg": { "gain": 700, "balance": 7 } },
+  { "coin": "LINK", "coinName": "Chainlink", "currentPrice": 15, "totalHolding": 15, "averageBuyPrice": 13, "stcg": { "gain": 300, "balance": 6 }, "ltcg": { "gain": 500, "balance": 5 } },
+  { "coin": "UNI", "coinName": "Uniswap", "currentPrice": 9, "totalHolding": 25, "averageBuyPrice": 8.5, "stcg": { "gain": 200, "balance": 10 }, "ltcg": { "gain": 300, "balance": 8 } },
+  { "coin": "ICP", "coinName": "Internet Computer", "currentPrice": 5, "totalHolding": 40, "averageBuyPrice": 6, "stcg": { "gain": -300, "balance": 15 }, "ltcg": { "gain": -200, "balance": 12 } },
+  { "coin": "NEAR", "coinName": "NEAR Protocol", "currentPrice": 4.5, "totalHolding": 60, "averageBuyPrice": 4.0, "stcg": { "gain": 300, "balance": 24 }, "ltcg": { "gain": 400, "balance": 20 } },
+  { "coin": "ALGO", "coinName": "Algorand", "currentPrice": 1.2, "totalHolding": 500, "averageBuyPrice": 1.0, "stcg": { "gain": 400, "balance": 200 }, "ltcg": { "gain": 600, "balance": 150 } }
+  
+]
